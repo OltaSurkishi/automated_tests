@@ -31,7 +31,7 @@ python automated_test.py
 
 PROJECT STRUCTURE
 
-solution25 automated test case/
+automated_tests automated test case/
 ├── automated_test.py
 ├── README.md
 
